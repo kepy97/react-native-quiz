@@ -5,15 +5,14 @@ A trivia game built with React Native, Redux, and the [Open Trivia Database](htt
 # Demo
 
 <p float="left">
-    <img src="/Demo/Step_9.png" width="200" height="400" />
-    <img src="/Demo/Step_8.png" width="200" height="400" />
-    <img src="/Demo/Step_7.png" width="200" height="400" />
-    <img src="/Demo/Step_6.png" width="200" height="400" />
-    <img src="/Demo/Step_5.png" width="200" height="400" />
-    <img src="/Demo/Step_4.png" width="200" height="400" />
-    <img src="/Demo/Step_3.png" width="200" height="400" />
-    <img src="/Demo/Step_2.png" width="200" height="400" /> 
-    <img src="/Demo/Step_1.png" width="200" height="400" />
+    <img src="/Demo/Step_9.PNG" width="200" height="400" />
+    <img src="/Demo/Step_8.PNG" width="200" height="400" />
+    <img src="/Demo/Step_7.PNG" width="200" height="400" />
+    <img src="/Demo/Step_5.PNG" width="200" height="400" />
+    <img src="/Demo/Step_4.PNG" width="200" height="400" />
+    <img src="/Demo/Step_3.PNG" width="200" height="400" />
+    <img src="/Demo/Step_2.PNG" width="200" height="400" /> 
+    <img src="/Demo/Step_1.PNG" width="200" height="400" />
 </p>
 
 ## Getting Started
